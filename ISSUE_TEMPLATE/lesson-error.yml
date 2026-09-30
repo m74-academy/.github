@@ -20,4 +20,4 @@ body:
     id: version
     attributes:
       label: Course version
-      description: The version tag you're on, for example v0.7.0.
+      description: The Course line of academy update --check, for example 0.8.2.
