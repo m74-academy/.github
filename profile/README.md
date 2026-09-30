@@ -1,6 +1,6 @@
 # M74 Academy
 
-University-level training in VFX pipeline development, grounded in production practice at M74.
+Training in VFX pipeline development, grounded in production practice at M74.
 
 Students learn production Python by building real tools: reading shot deliveries, validating data, writing tested command-line programs, and handing work to other people through reviewable repositories.
 
