@@ -1,0 +1,23 @@
+name: Lesson error
+description: A mistake or something unclear in a lesson, lab, or check.
+labels: ["lesson"]
+body:
+  - type: input
+    id: lesson
+    attributes:
+      label: Lesson
+      description: Chapter and lesson number, for example 2.4, or the page name.
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong or unclear?
+      description: Quote the sentence or code, and say what you expected instead.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Course version
+      description: The Course line of academy update --check, for example 0.8.2.

@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ask a question about Module 0
+    url: https://github.com/m74-academy/module-0/discussions
+    about: Questions about Module 0 lessons or setup. Academy students, ask in your module's Discussions or your instructor.
