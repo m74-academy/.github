@@ -7,4 +7,4 @@ M74 Academy is a place to learn production work together. Everyone who takes par
 - Keep private things private: other people's personal details, course materials, production media, and credentials.
 - Do your own graded work. Helping someone understand is welcome; handing over a solution is not.
 
-If something goes wrong, contact an instructor privately. Instructors may remove content or restrict access to keep the space safe.
+If something goes wrong, contact an instructor privately, or write to [virgil.sisoe@m74post.com](mailto:virgil.sisoe@m74post.com). Instructors may remove content or restrict access to keep the space safe.
